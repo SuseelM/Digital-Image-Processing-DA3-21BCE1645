@@ -21,6 +21,6 @@ datasets/
 │   ├── Val/
 │   ├── Test/
 
-Step 1: Place the YOLOv10x pre-trained model weights (yolov10x.pt) in the project directory.
+Step 1: Place the YOLOv9 pre-trained model weights (yolov9.pt) in the project directory.
 Step 2: Start training
 Step 3: After training, you can find the results (metrics, predictions, model weights) in the runs/detect directory.
