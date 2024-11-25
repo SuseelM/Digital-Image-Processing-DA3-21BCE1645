@@ -11,7 +11,7 @@ Ensure you have the following installed:
 - `ultralytics` library (`pip install ultralytics`)
 - NVIDIA GPU with CUDA enabled
 
-datasets/
+Dataset/
 ├── images/
 │   ├── Train/
 │   ├── Val/
