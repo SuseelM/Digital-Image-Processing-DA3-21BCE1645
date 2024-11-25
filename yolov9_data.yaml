@@ -1,0 +1,16 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+
+#train: C:\Users\Suseel's PC\Downloads\Wrist Dataset\DATA\Train\image
+#val: C:\Users\Suseel's PC\Downloads\Wrist Dataset\DATA\Val\image
+#test: C:\Users\Suseel's PC\Downloads\Wrist Dataset\DATA\Test\image
+
+path: D:\Downloads - upto 21-6-2024\Wrist Dataset\datasets
+train: images/Train
+val: images/Val
+test: images/Test
+
+# number of classes
+nc: 9
+
+# class names
+names: ["boneanomaly", "bonelesion", "foreignbody", "fracture", "metal", "periostealreaction", "pronatorsign", "softtissue", "text"]
